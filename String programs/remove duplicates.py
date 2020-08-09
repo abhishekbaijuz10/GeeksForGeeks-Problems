@@ -5,5 +5,4 @@ for i in range(0, n):
         if str[i] == str[j]:
             break
 
-    if(j == i):
         
